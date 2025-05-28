@@ -5,6 +5,7 @@
 
 
 ### Previous repositories (Before June 2024)
+* LOFin-benchmark and HiREC Framework (https://github.com/deep-over/LOFin-bench-HiREC)
 * ASR with LLM (https://github.com/nickjw0205/Improving-ASR-with-LLM-Description)
 * CoFiNER (https://github.com/sue991/CoFiNER)
 * FiLM (https://github.com/deep-over/FiLM)
