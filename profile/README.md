@@ -4,7 +4,7 @@
 [Data science lab](https://dsl.hanyang.ac.kr/)
 
 
-### Previous repositories (Before June 2024)
+### Previous repositories (Before June 2025)
 * LOFin-benchmark and HiREC Framework (https://github.com/deep-over/LOFin-bench-HiREC)
 * ASR with LLM (https://github.com/nickjw0205/Improving-ASR-with-LLM-Description)
 * CoFiNER (https://github.com/sue991/CoFiNER)
