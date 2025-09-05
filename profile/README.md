@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[Data science lab](https://dsl.hanyang.ac.kr/)
+[Autonomous AI Lab](https://aai.korea.ac.kr/)
 
 
 ### Previous repositories (Before June 2025)
